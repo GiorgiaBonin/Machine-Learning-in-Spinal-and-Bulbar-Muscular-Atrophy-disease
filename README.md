@@ -15,8 +15,8 @@ In the reported experiments:
 
 ## Documents
 
-- [`Bonin_Giorgia_Master_Thesis.pdf`] — complete thesis report.
-- [`SBMA_Thesis_Presentation.pdf`] — thesis defense presentation.
+- `Bonin_Giorgia_Master_Thesis.pdf` — complete thesis report.
+- `SBMA_Thesis_Presentation.pdf` — thesis defense presentation.
 
 ## Code and data
 
